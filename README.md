@@ -6,9 +6,10 @@ Welcome to the Data Warehouse and Analytics Project repository! 🚀
 
 ---
 🏗️ Data Architecture
+
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
-<img width="1466" height="762" alt="image" src="https://github.com/user-attachments/assets/56b24718-e97a-40bb-ae4d-fd06e55f76b2" />
+<img width="1477" height="751" alt="image" src="https://github.com/user-attachments/assets/4dc3e6be-d09e-4a42-8305-d8ad79c7531f" />
 
 
 
