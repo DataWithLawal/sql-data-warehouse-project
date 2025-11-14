@@ -54,7 +54,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 #### BI: Analytics & Reporting (Data Analysis)
 
-#### Objective
+### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
 - **Customer Behavior**
@@ -62,3 +62,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+## About me
+
+Hi there, I am James Lawal, a passionate data engineer and analytics professional experienced in turning raw data into clean, scalable systems that power strong insights.
