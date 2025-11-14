@@ -1,8 +1,7 @@
-# Data Warehouse and Analytics Project
-
+ # 📊 Data Warehouse and Analytics Project
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 
-- This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 ### 🏗️ Data Architecture
@@ -12,27 +11,28 @@ The data architecture for this project follows Medallion Architecture which incl
 <img width="1477" height="751" alt="image" src="https://github.com/user-attachments/assets/4dc3e6be-d09e-4a42-8305-d8ad79c7531f" />
 
 ---
--- **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
--- **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
--- **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
+- **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+- **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+- **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+---
+## Project Overview
 
-#### Project Overview
 This project involves:
 
 - **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 - **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 - **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 - **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
-- 
+  
 🎯 **This repository is an excellent showcase of my expertise in**:
 
--SQL Development
--Data Architect
--Data Engineering
--ETL Pipeline Developer
--Data Modeling
--Data Analytics
+- SQL Development
+- Data Architect
+- Data Engineering
+- ETL Pipeline Developer
+- Data Modeling
+- Data Analytics
 
 
 
